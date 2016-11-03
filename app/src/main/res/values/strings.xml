@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS Mobpro</string>
+    <string-array name="IsiSp">
+        <item>Rahadian</item>
+        <item>Irvan</item>
+        <item>Muhammad</item>
+        <item>Taufiq</item>
+    </string-array>
+</resources>
